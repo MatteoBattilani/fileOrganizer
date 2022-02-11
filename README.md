@@ -4,7 +4,7 @@
 
 **STEP 1**
 
-I started by creating, in a notebook, a Python script that would iterate alphabetically over the files in the "**files**" folder and, depending on the type (audio, document, image), move them to the relevant subfolder. If the subfolder does not exist, the script automatically creates it.
+I started by creating, in a notebook file called "fileOrganizer.ipynb", a Python script that would iterate alphabetically over the files in the "**files**" folder and, depending on the type (audio, document, image), move them to the relevant subfolder. If the subfolder does not exist, the script automatically creates it.
 During the cycle, the script prints the information about the files: name, type and size in bytes. 
 
 
