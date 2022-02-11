@@ -8,7 +8,7 @@ I started by creating, in a notebook, a Python script that would iterate alphabe
 During the cycle, the script prints the information about the files: name, type and size in bytes. 
 
 
-In addition to printing out the information as I move files around, I need to keep track of the files by creating a "**recap.csv**" document with the same information. 
+In addition to printing out the information as I move files around, I need to keep track of the files by creating a "**recap.csv**" (called "Resoconto.csv" in my code) document with the same information. 
 The final structure of the files folder should be:
 
 - files            
